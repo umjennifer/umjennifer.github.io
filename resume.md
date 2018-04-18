@@ -3,13 +3,16 @@ layout: default
 ---
 # Resume
 ## Education
-#### UCLA - Bachelor's Of Science, Environmental Science
-## Experience
-#### NorthEast Valley Health Corporation
-#### CLICC
-#### UKS
+#### UCLA Environmental Science B.S.’17
+#####Concentration in Environmental Systems and Society & Minor in Geology
+## Experience in roles such as
+#### Director’s Coordinator & Social Media Manager
+#### Health Career Connections Intern
+#### Lead Helpdesk Consultant
+#### Co-President, United Khmer Students
 ## Skills
-#### IT
-#### JLC
-#### Testing Tue, Apr 17
-##test 2
+#### Digital communications
+#### Event planning
+#### Program Administration
+#### Helpdesk
+
