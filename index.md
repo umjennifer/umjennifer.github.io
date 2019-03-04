@@ -2,11 +2,4 @@
 layout: default
 ---
 # Home
-As Jean-Luc always said:
-> HABIBI I LOVE YOU
-> SO MUCH
-
-| Syntax | Description |
-| ----------- | ----------- |
-| Header | Title |
-| Paragraph | Text |
+This is a description on my homepage
