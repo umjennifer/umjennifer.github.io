@@ -1,7 +1,6 @@
 ---
 layout: default
 ---
-# [Email](mailto:um.jennifer@gmail.com)
-# [LinkedIn](https://www.linkedin.com/in/jenniferum/)
-# [Instagram](https://www.instagram.com/estr0jenn)
-
+# f4f
+* [LinkedIn](https://www.linkedin.com/in/jenniferum/)
+* [GitHub](https://github.com/umjennifer/)
