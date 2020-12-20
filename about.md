@@ -2,9 +2,9 @@
 layout: default
 ---
 
-# Milestones
+# milestones
 **1995** 
-* Born to Cambodian refugees/immigrants that survived the [Khmer Rouge genocide](https://en.wikipedia.org/wiki/Khmer_Rouge)
+* Born in Los Angeles, CA to Cambodian refugees/immigrants that survived the [Khmer Rouge genocide](https://en.wikipedia.org/wiki/Khmer_Rouge)
 
 **2006** 
 * Stopped listening to Radio Disney. Fell in love with hip-hop  
@@ -28,6 +28,7 @@ layout: default
 
 **2018**
 * Hired at Google as an [Information Technology Resident](https://buildyourfuture.withgoogle.com/programs/itrp/)
+* Moved to the Bay Area, CA
 
 **2020**
 * Hired at Google as a [Corporate Operations Engineer](https://www.youtube.com/watch?v=ID1OEyafCi0) on the Building Automation and Security Engineering team
