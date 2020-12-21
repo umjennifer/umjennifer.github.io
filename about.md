@@ -2,12 +2,19 @@
 layout: default
 ---
 
+# what I value
+* **Strong** work-life balance
+* Transparency
+* Adaptibility
+* Continuing education
+* No history, no self. Know history, know self.
+
 # milestones
 **1995** 
 * Born in Los Angeles, CA to Cambodian refugees/immigrants that survived the [Khmer Rouge genocide](https://en.wikipedia.org/wiki/Khmer_Rouge)
 
 **2006** 
-* Stopped listening to Radio Disney. Fell in love with hip-hop  
+* Discovered and fell in love with hip-hop  
 
 **2013**
 * Accepted to [UCLA](http://ucla.edu/)
