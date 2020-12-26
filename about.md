@@ -1,15 +1,16 @@
 ---
 layout: default
 ---
+# about
 
-# what I value
+## what I value
 * **Strong** work-life balance
 * Transparency
 * Adaptibility
 * Continuing education
 * No history, no self. Know history, know self.
 
-# milestones
+## milestones
 **1995** 
 * Born in Los Angeles, CA to Cambodian refugees/immigrants that survived the [Khmer Rouge genocide](https://en.wikipedia.org/wiki/Khmer_Rouge)
 

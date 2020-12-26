@@ -1,8 +1,8 @@
 ---
 layout: default
 ---
-
-# anime
+# recommendations
+## anime
 * [A Place Further Than the Universe](https://www.crunchyroll.com/a-place-further-than-the-universe)
 * [Barakamon](https://www.funimation.com/shows/barakamon/)
 * [The Disastrous Life of Saiki K.](https://www.netflix.com/title/80117781)
@@ -18,5 +18,5 @@ layout: default
 * [Uzaki-Chan Wants to Hang Out!](https://www.funimation.com/shows/uzaki-chan-wants-to-hang-out/)
 * [Violet Evergarden](https://www.netflix.com/title/80182123)
 
-# music
+## music
 * See my [Spotify profile](https://open.spotify.com/user/122645021)
