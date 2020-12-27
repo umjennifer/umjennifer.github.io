@@ -1,5 +1,5 @@
 ---
-layout: default
+layout: blog
 title:  "Advent of Code: Slow progress > no progress"
 date:   2020-12-26
 tags: adventofcode 2020
