@@ -16,5 +16,5 @@ layout: default
 * [Game of Life](https://github.com/umjennifer/gameoflife)
 * [Python (Intermediate) Certificate from Hackerrank](https://www.hackerrank.com/certificates/a8fb8dbd81d0)
 
-### Markdown
+### Web Development
 * [umjennifer.com](http://umjennifer.com/)
