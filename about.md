@@ -40,5 +40,8 @@ layout: default
 
 **2020**
 * Hired at Google as a [Corporate Operations Engineer](https://www.youtube.com/watch?v=ID1OEyafCi0) on the Building Automation and Security Engineering team
-* Enrolled at De Anza College to pursue the [Programming in C/C++ certificate](https://www.deanza.edu/cis/degrees.html) 
+* Enrolled in De Anza College to pursue the [Programming in C/C++ certificate](https://www.deanza.edu/cis/degrees.html) 
 * Got engaged to the love of my life
+
+**2021**
+* Accepted to [Oregon State University's Computer Science B.S. Postbaccalaureate prgram](https://eecs.oregonstate.edu/academic/online-cs-postbacc)

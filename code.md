@@ -5,7 +5,7 @@ layout: default
 
 ## projects and experience
 ### C++
-* [Programming in C/C++ certificate](https://www.deanza.edu/cis/degrees.html) from De Anza College
+* [Programming in C/C++](https://www.deanza.edu/cis/courses.html) from De Anza College
   * CIS 22A: Beginning Programming Methodologies in C++
   * CIS 22B: Intermediate Programming Methodologies in C++
   * In-progress: CIS 26B: Advanced C Programming
