@@ -17,9 +17,10 @@ layout: default
 - [Game of Life](https://github.com/umjennifer/gameoflife)
 - [Python (Intermediate) Certificate from Hackerrank](https://www.hackerrank.com/certificates/a8fb8dbd81d0)
 ### Coursework
-- [Oregon State University]
+- Oregon State University
   - [CS 161; Introduction to Computer Science I](https://ecampus.oregonstate.edu/soc/ecatalog/ecoursedetail.htm?termcode=all&coursenumber=161&subject=CS)
   - [CS 162: Introduction to Computer Science II](https://ecampus.oregonstate.edu/soc/ecatalog/ecoursedetail.htm?termcode=all&subject=CS&coursenumber=162)
 
 ## Web Development
+### Projects
 - [umjennifer.com](http://umjennifer.com/)
