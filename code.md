@@ -7,7 +7,7 @@ layout: default
 ### Projects
 -  [Advent of Code 2020](https://github.com/umjennifer/AdventOfCode2020)
 
-#### Coursework
+### Coursework
 -  [De Anza College](https://www.deanza.edu/cis/courses.html)
   - CIS 22A: Beginning Programming Methodologies in C++
   - CIS 22B: Intermediate Programming Methodologies in C++
