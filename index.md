@@ -23,6 +23,6 @@ layout: default
 - anime
 - historical fiction romance novels
 
-## reach out if you're interested in
+## <a href="{{ site.github.url }}/contact">contact me</a> if you're interested in
 - creative consulting
 - casual chatting :)
