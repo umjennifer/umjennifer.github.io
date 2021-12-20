@@ -1,0 +1,59 @@
+---
+layout: default
+watercolors:
+  - image_path: assets/images/art/watercolor/toilet_paper.jpg
+    title: Toilet Paper (Watercolor)
+    link: toilet_paper.html
+  - image_path: assets/images/art/watercolor/security_key.png
+    title: Security Key (Watercolor)
+  - image_path: assets/images/art/watercolor/doogler.jpeg
+    title: Doogler (Watercolor)
+graphic_designs:
+  - image_path: assets/images/art/graphic_design/cs_flyer.png
+    title: Comptuer Science Club (Graphic Design)
+  - image_path: assets/images/art/graphic_design/magazine.png
+    title: Magazine Spread (Graphic Design)
+  - image_path: assets/images/art/graphic_design/skateboard.png
+    title: Skateboard (Graphic Design)
+instagram_spreads:
+  - image_path: assets/images/art/graphic_design/instagram_spread1.png
+    title: Instagram Spread (Graphic Design)
+---
+<h1>art</h1>
+Clicking on an image to open it in a new page.
+<hr>
+<h2>graphic design</h2>
+<ul class="photo-gallery">
+    {% for image in page.graphic_designs %}
+    <a href="{{ image.image_path }}">
+      <img src="{{ image.image_path }}" alt="{{ image.title}}"/>
+    </a>
+    {% endfor %}
+</ul>
+
+<h3>instagram spreads</h3>
+<ul class="photo-gallery">
+    {% for image in page.instagram_spreads %}
+    <a href="{{ image.image_path }}">
+      <img src="{{ image.image_path }}" alt="{{ image.title}}"/>
+    </a>
+    {% endfor %}
+</ul>
+
+<h3>coursework</h3>
+<details>
+  <summary>Foothill College</summary>
+  ✅ GID 33 GRAPHIC DESIGN STUDIO I<br>
+</details>
+<br>
+
+<hr>
+
+<h2>watercolor</h2>
+<ul class="photo-gallery">
+    {% for image in page.watercolors %}
+    <a href="{{ image.image_path }}">
+      <img src="{{ image.image_path }}" alt="{{ image.title}}"/>
+    </a>
+    {% endfor %}
+</ul>

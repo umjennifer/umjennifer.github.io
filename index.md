@@ -7,22 +7,26 @@ layout: default
 ## about me
 - 4'10"  
 - 26 years old  
-- Cambodian American  
+- 2nd generation Cambodian American
 - LA ➡️ Bay Area, CA
 
 ## interests
-- content creation via
-  - graphic design
-  - painting
-     - watercolor
-     - acrylic
-  - bullet journaling / planning
-  - social media
 - coding
 - hip hop
 - anime
 - historical fiction romance novels
+- content creation via
+  - graphic design
+  - bullet journaling / planning
+  - social media
+  - painting
+      - watercolor
+      - acrylic
 
 ## <a href="{{ site.github.url }}/contact">contact me</a> if you're interested in
-- creative consulting
-- casual chatting :)
+- my experience transitioning from environmental science to tech
+- Cambodian American identity
+- mentorship
+- a resume review
+- collaborating on a creative project
+- just chatting :)
