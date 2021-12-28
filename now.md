@@ -3,7 +3,7 @@ layout: default
 ---
 
 *This is my [now](https://nownownow.com/about) page.*  
-*Last updated: 2021-12-19*
+*Last updated: 2021-12-28*
 
 # currently
 - engineering at Google
@@ -16,4 +16,5 @@ layout: default
 - working on winter break personal projects
   - compiling Khmer recipes for this website
   - planning a sticker shop
+  - resting!!
 

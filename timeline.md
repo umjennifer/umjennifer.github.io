@@ -37,4 +37,4 @@ layout: default
 
 **2021**
 - Accepted to [Oregon State University's Computer Science B.S. Postbaccalaureate prgram](https://eecs.oregonstate.edu/academic/online-cs-postbacc)
-- Married to the love of my life
+- Married the love of my life
