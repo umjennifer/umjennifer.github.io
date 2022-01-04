@@ -24,7 +24,6 @@ Check out my [GitHub](https://github.com/umjennifer/).
 <details>
   <summary>Oregon State University: Computer Science B.S. (In-progress)</summary>
   ✅ CS 161 INTRODUCTION TO COMPUTER SCIENCE I<br>
-  ✅ CS 161 INTRODUCTION TO COMPUTER SCIENCE I<br>
   ✅ CS 162 INTRODUCTION TO COMPUTER SCIENCE II<br>
   ✅ CS 225 DISCRETE STRUCTURES IN COMPUTER SCIENCE<br>
   ⬜ CS 261 DATA STRUCTURES<br>
