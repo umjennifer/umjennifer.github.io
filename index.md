@@ -16,12 +16,9 @@ layout: default
 - anime
 - historical fiction romance novels
 - content creation via
-  - graphic design
   - bullet journaling / planning
   - social media
-  - painting
-      - watercolor
-      - acrylic
+  - dabbling in art once in a while (graphic design, painting, etc.)
 
 ## <a href="{{ site.github.url }}/contact">contact me</a> if you're interested in
 - my experience transitioning from environmental science to tech
