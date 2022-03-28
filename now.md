@@ -3,7 +3,7 @@ layout: default
 ---
 
 *This is my [now](https://nownownow.com/about) page.*  
-*Last updated: 2022-02-01*
+*Last updated: 2022-03-27*
 
 # currently
 - engineering at Google
