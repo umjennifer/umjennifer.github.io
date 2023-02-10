@@ -11,13 +11,15 @@ images:
 
 # code
 
-## personal projects
+## projects
 Check out my [GitHub](https://github.com/umjennifer/).
 
 ## languages
-- python
-- go
-- powershell
+- Python
+- Go
+- Powershell
+- C
+- C++ 
 
 ## courses
 <details>
