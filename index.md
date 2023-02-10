@@ -6,7 +6,7 @@ layout: default
 
 ## about me
 - 4'10"  
-- 26 years old  
+- 27 years old  
 - 2nd generation Cambodian American
 - LA ➡️ Bay Area, CA
 
