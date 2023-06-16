@@ -15,6 +15,7 @@ layout: default
 - hip hop
 - historical fiction romance novels
 - content creation (video editing, etc.)
+- strength training
 
 ## <a href="{{ site.github.url }}/contact">contact me</a> if you're interested in
 - my experience transitioning from environmental science to tech
