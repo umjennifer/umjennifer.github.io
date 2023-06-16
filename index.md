@@ -14,7 +14,7 @@ layout: default
 - anime
 - hip hop
 - historical fiction romance novels
-- content creation (video editing, etc.)
+- content creation
 - strength training
 
 ## <a href="{{ site.github.url }}/contact">contact me</a> if you're interested in
