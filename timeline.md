@@ -39,5 +39,5 @@ layout: default
 - Accepted to [Oregon State University's Computer Science B.S. Postbaccalaureate program](https://eecs.oregonstate.edu/academic/online-cs-postbacc)
 - Married the love of my life
 
-  **2023**
+**2023**
 - Finished Oregon State University's Computer Science B.S. Postbaccalaureate program
