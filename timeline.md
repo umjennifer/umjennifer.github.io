@@ -36,5 +36,8 @@ layout: default
 - Got engaged to the love of my life
 
 **2021**
-- Accepted to [Oregon State University's Computer Science B.S. Postbaccalaureate prgram](https://eecs.oregonstate.edu/academic/online-cs-postbacc)
+- Accepted to [Oregon State University's Computer Science B.S. Postbaccalaureate program](https://eecs.oregonstate.edu/academic/online-cs-postbacc)
 - Married the love of my life
+
+  **2023**
+- Finished Oregon State University's Computer Science B.S. Postbaccalaureate program
