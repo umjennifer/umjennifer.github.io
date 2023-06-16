@@ -40,4 +40,4 @@ layout: default
 - Married the love of my life
 
 **2023**
-- Finished Oregon State University's Computer Science B.S. Postbaccalaureate program
+- Graduated from Oregon State University with a Computer Science B.S
