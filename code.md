@@ -23,7 +23,7 @@ Check out my [GitHub](https://github.com/umjennifer/).
 
 ## courses
 <details>
-  <summary>Oregon State University: Computer Science B.S. (In-progress)</summary>
+  <summary>Oregon State University: Computer Science B.S.</summary>
   ✅ CS 161 INTRODUCTION TO COMPUTER SCIENCE I<br>
   ✅ CS 162 INTRODUCTION TO COMPUTER SCIENCE II<br>
   ✅ CS 225 DISCRETE STRUCTURES IN COMPUTER SCIENCE<br>
@@ -33,12 +33,12 @@ Check out my [GitHub](https://github.com/umjennifer/).
   ✅ CS 372 INTRODUCTION TO COMPUTER NETWORKS<br>
   ✅ CS 475 INTRODUCTION TO PARALLEL PROGRAMMING<br>
   ✅ CS 325 ANALYSIS OF ALGORITHMS<br>
-  ⬜ CS 340 INTRODUCTION TO DATABASES<br>
+  ✅ CS 340 INTRODUCTION TO DATABASES<br>
   ✅ CS 344 OPERATING SYSTEMS I<br>
   ✅ CS 361 SOFTWARE ENGINEERING I<br>
   ✅ CS 362 SOFTWARE ENGINEERING II<br>
-  ⬜ CS 467 ONLINE CAPSTONE PROJECT<br>
-  ⬜ CS 464 OPEN SOURCE SOFTWARE<br>
+  ✅ CS 467 ONLINE CAPSTONE PROJECT<br>
+  ✅ CS 464 OPEN SOURCE SOFTWARE<br>
 </details>
 <details>
   <summary>De Anza College</summary>
