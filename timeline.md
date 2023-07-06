@@ -41,3 +41,4 @@ layout: default
 
 **2023**
 - Graduated from Oregon State University with a Computer Science B.S
+- Hired at Yahoo as a Software Dev Engineer
